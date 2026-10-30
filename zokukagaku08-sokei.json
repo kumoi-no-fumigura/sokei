@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sokei",
  "yomi": "そうけいしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "文久3年（1863）1月自序",
+  "author": "大隈言道（1798〜1868）",
+  "desc": "筑前の歌人大隈言道の自撰家集。難波に来て、友人たちが歌集を出すのにならい板に彫ったと自序にいう。"
+ },
  "editions": [
   {
    "pid": "993386",
